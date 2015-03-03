@@ -37,7 +37,6 @@ public class Main {
             if(imgPath.contains("http:")){
                 imgURL = new URL(imgPath);
                 bufferedImage = ImageIO.read(imgURL);
-                ImageIO.write(bufferedImage, "jpg", new File("download.jpg"));
             }else{
             //reading local file
                 imgFile = new File(imgPath);
