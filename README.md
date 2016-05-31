@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/isurunix/image2ascii.svg?branch=master)](https://travis-ci.org/isurunix/image2ascii)
 [![Stories in Ready](https://badge.waffle.io/isurunix/image2ascii.png?label=ready&title=Ready)](https://waffle.io/isurunix/image2ascii)
 # image2ascii
 
