@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/isurunix/image2ascii.png?label=ready&title=Ready)](https://waffle.io/isurunix/image2ascii)
 # image2ascii
 
 A console/terminal driven application to covnert **image** to **ascii art**.
